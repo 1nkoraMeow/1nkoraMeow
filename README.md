@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=76DBD5&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Polynya;A+Scratch+noob!;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=76DBD5&center=true&vCenter=true&width=520&lines=It's+Polynya;" alt="Typing SVG" />
 
 <br />
 
 <img src="https://count.getloli.com/@1nkoraMeow?name=1nkoraMeow&theme=miku&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" height="60px" />
 
-<sub>people have viewed this README, and you are one of them!</sub>
+<sub>people have viewed this README, and you are one of them...</sub>
 
 </div>
 
@@ -14,13 +14,13 @@
 
 ## About Me
 
-- Nickname: **Polynya_ofc**
-- A Scratch noob (?) / messing around with small projects
+- **Polynya_Official**
+- A noob of Scratch(?)
 
 ## 🛠 What I'm Working On
 
 - [Polynya's Blog](https://polynyablog.dpdns.org/) — built with [Fuwari](https://github.com/saicaca/fuwari)
-- A Autoplay Game built with Unity — [Video Example](https://www.bilibili.com/video/BV1GJnG6rEx9)
+- [A Autoplay Game built with Unity](https://github.com/1nkoraMeow/newMultiplyOrRelease) — [Video Example](https://www.bilibili.com/video/BV1GJnG6rEx9)
 
 ## 🔗 Find Me
 
