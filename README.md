@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=76DBD5&center=true&vCenter=true&width=520&lines=It's+Polynya;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=76DBD5&center=true&vCenter=true&width=520&lines=Polynya_Official" alt="Typing SVG" />
 
 <br />
 
